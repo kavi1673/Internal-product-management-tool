@@ -25,7 +25,12 @@ bash
 Copy
 Edit
 npm install
-npm start
+
+https://github.com/user-attachments/assets/b2177d7d-c8d1-413f-adbf-d3ffc90783a5
+
+
+npm start![Uploading classdiagram.drawio.svg…]()
+
 Folder Structure
 src/ → Backend source code
 
